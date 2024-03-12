@@ -43,3 +43,5 @@ We welcome contributions to FunByte! If you have suggestions for new games, impr
 ## License
 
 This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
+
+*For those wondering the source code to the site is currently private.
