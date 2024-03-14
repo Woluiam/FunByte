@@ -45,3 +45,5 @@ We welcome contributions to FunByte! If you have suggestions for new games, impr
 This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
 
 *For those wondering the source code to the site is currently private.
+
+*This site has not been modeled around being unblocked in school. Please Request a fork of the code in the issues tab or by contacting me if you wish to maintain it manually for a specific school or other restricted enviroment as I do not currently maintain any Custom Branches.
