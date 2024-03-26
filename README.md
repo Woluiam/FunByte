@@ -47,6 +47,9 @@ This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LI
 
 ## Disclaimer
 
-- **Source Code Privacy:** The source code for the site is currently private.
+- **Source Code Privacy:**
+- The source code for the site is currently private.
 
-- **Not Specifically Designed for Schools:** While FunByte offers unblocked access to games, it is not specifically tailored for school environments. If you wish to maintain a custom version of the site for a specific school or other restricted environment, please request a fork of the code in the issues tab or by contacting me. I do not currently maintain any custom branches.
+- **Not Specifically Designed for Schools:**
+- While FunByte offers unblocked access to games, it is not specifically tailored for school environments. the only custom branch maintained by me is [https://funbyte.pages.dev/classroom.google.com/](https://funbyte.pages.dev/classroom.google.com/) as I heard it is unblocked in some schools.
+-  If you wish to maintain a custom version of the site for a specific school or other restricted environment, please request a fork of the code in the issues tab or by contacting me. I do not currently maintain any custom branches.
