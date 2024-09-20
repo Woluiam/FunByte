@@ -15,7 +15,7 @@ Welcome to FunByte, your go-to destination for a wide variety of unblocked games
 
 FunByte is a user-friendly unblocked games website designed to provide an entertaining and seamless gaming experience for users of all ages. Our mission is to offer a diverse collection of games that are accessible without any restrictions, allowing you to have fun during your breaks, study sessions, or whenever you need a quick gaming fix.
 
-Visit FunByte: [https://funbyte.pages.dev](https://funbyte.pages.dev)
+Visit FunByte: [https://funbytes.pages.dev](https://funbyte.pages.dev)
 
 ## Features
 
